@@ -15,7 +15,7 @@ Conventional validators nag users into adding symbols and numbers, producing har
 - **History & reuse awareness**: Locally tracks hashed history to discourage reuse.
 - **CLI and Tkinter GUI**: Works in the terminal or a polished desktop UI.
 - **Internationalization**: `en` and `hi` built-in.
-- **Optional zxcvbn fusion**: If installed, blends its score for additional realism.
+
 
 ---
 
